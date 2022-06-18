@@ -4,7 +4,7 @@
 ---
 - # Questions
 ---
-- ### MazeCount
+- ### [MazeCount](https://github.com/dhrupad17/Backtracking/blob/main/MazeCount.md)
 
 
 
