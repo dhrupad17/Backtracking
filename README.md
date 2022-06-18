@@ -5,7 +5,7 @@
 - # Questions
 ---
 - ### [MazeCount](https://github.com/dhrupad17/Backtracking/blob/main/MazeCount.md)
-
+- ### [PrintPaths](https://github.com/dhrupad17/Backtracking/blob/main/PrintPath.md)
 
 
 
